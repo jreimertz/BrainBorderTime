@@ -1,5 +1,5 @@
 # BrainBorderTime
-Repository associated with the Brain Border Time scRNAseq web platform developed by the Beth Stevens Lab at Boston Children's Hospital
+Repository associated with the Brain Border Time scRNA-seq web platform developed by the Beth Stevens Lab at Boston Children's Hospital
 
 ## Web Platform
 The associated code used to generate the Brain Border Time web application for exploration of brain and leptomenigeal scRNA-seq data in mice around the day-night cycle accessible [here](https://brain-border-time-137125894342.us-central1.run.app/).
@@ -16,7 +16,7 @@ To sensitively sample rarer immune populations including BAMs and infiltrating l
 Data will be made available upon publication
 
 ## Citation
-If you find this dataset or the Brain Border Time web application helpful please include the following citation:
+If you find this dataset or the Brain Border Time web application helpful please include the following citation:<br><br>
 _The circadian clock regulates scavenging of fluid-borne substrates by brain border-associated macrophages_
 Helena J. Barr, Sydney K. Caldwell, Justin M. Reimertz, Constanze Depp, Alec J. Walker, Samuel E. Marsh, Anushree S. Gupte, Maximilian Hingerl, Jasmin Patel, Sang-O Park, Sarah Ferraro, Jonathan Lipton, Beth Stevens.
 Preprint. http://dx.doi.org/10.64898/2025.12.08.693074
